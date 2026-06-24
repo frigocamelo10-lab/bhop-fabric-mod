@@ -6,4 +6,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'bhop_fabric_mod'
+rootProject.name = "bhop_fabric_mod"
